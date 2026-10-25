@@ -1,6 +1,6 @@
 # LOG(N) Pacific — Hunt 13 // Operation Overreach (GF-INC-2026-0806)
 
-> **⚠️ PRIVATE until the hunt closes (window ends 15 Aug 2026 12:00 UTC).** Do not make public while the field is still working the case.
+> Published after the hunt closed on 15 August 2026.
 
 **Result: 🥇 1st place — 50/50 complete sweep, 43,279 pts (+1,870 over 2nd).**
 
